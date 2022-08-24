@@ -1,0 +1,1 @@
+# go-compiler-optimization-var-func-pointer
